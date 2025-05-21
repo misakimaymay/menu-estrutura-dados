@@ -1,0 +1,7 @@
+C:\Users\Aluno\source\repos\MenuAPS\MenuAPS\bin\Debug\MenuAPS.exe.config
+C:\Users\Aluno\source\repos\MenuAPS\MenuAPS\bin\Debug\MenuAPS.exe
+C:\Users\Aluno\source\repos\MenuAPS\MenuAPS\bin\Debug\MenuAPS.pdb
+C:\Users\Aluno\source\repos\MenuAPS\MenuAPS\obj\Debug\MenuAPS.csproj.AssemblyReference.cache
+C:\Users\Aluno\source\repos\MenuAPS\MenuAPS\obj\Debug\MenuAPS.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\MenuAPS\MenuAPS\obj\Debug\MenuAPS.exe
+C:\Users\Aluno\source\repos\MenuAPS\MenuAPS\obj\Debug\MenuAPS.pdb
